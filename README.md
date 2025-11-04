@@ -44,8 +44,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 - **Descripción:** Mejores prácticas, errores comunes y dónde aprender más.  
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link6)  
+- **Enlace:** [Ver la lección](https://youtu.be/6Nk9Q0og9KM)  
 - **Consejos clave:** Valida tu código y explora la documentación de [MDN Web Docs](https://developer.mozilla.org/es/).
+- **Donde Aprender mas:**
+  -  [MDN Web Docs](https://developer.mozilla.org/es/)
+  -  [W3Schools](https://www.w3schools.com/)
+  -  [W3Schools](https://www.w3schools.com/)
+  -  [CSSBattle](https://cssbattle.dev/)
+  -  [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ---
 
