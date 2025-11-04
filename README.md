@@ -38,9 +38,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción:** Combina HTML y CSS para crear una página de perfil personal.  
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link5)  
+- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=_sVJ0V4YFfI)  
 - **Consejos clave:** Aplica estilos y depura errores.  
-- **Proyecto Final:** [Crea tu pagina web](https://codepen.io/pen/?template=starter1)
+- **Proyecto Final:** [Crea tu pagina web](https://codepen.io/gilberthuarcaya/pen/NPxobLb)
 
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 - **Descripción:** Mejores prácticas, errores comunes y dónde aprender más.  
@@ -59,7 +59,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 2 | Primera página HTML | [CodePen](https://codepen.io/Mr-Code-star/pen/myVzRPp) |
 | 3 | Añadir imágenes | [CodePen](https://codepen.io/Mr-Code-star/pen/XJXxpKm) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/Mr-Code-star/pen/RNreKRx) |
-| 5 | Página web | [CodePen](https://codepen.io/Mr-Code-star/pen/bNEmgBQ) |
+| 5 | Página web | [CodePen](https://codepen.io/gilberthuarcaya/pen/NPxobLb) |
 
 - Cuestionario: [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSe8MYDlAQGcL5Dy0sJ3hvP6c78Pw0J6TKft8-tiYnsNEJTFxQ/viewform?usp=dialog)  
 - Compartir: #WebDevBeginners  
@@ -80,9 +80,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **Líder del equipo:** Baca Camargo, Vitaly Arturo  
 
 **Integrantes:**  
-- Huarcaya Matias  
-- Gilbert Alonso  
-- Huapaya Galindo, Dyaron  
+- Huarcaya Matias, Gilbert Alonso  
+- Huapaya Galindo, Dyron  
 - Pariachi Limahuaya, Sebastian Ubaldo  
 - Ramirez Carrasco, Ariana Lizeth  
 - Lopez Roman, Franco Mauricio  
