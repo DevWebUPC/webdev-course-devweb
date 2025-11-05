@@ -26,7 +26,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción:** Agrega listas, imágenes y enlaces para que tu página sea interactiva.  
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link3)  
+- **Enlace:** [Ver la lección](https://youtu.be/kGluoydUjBI)  
 - **Consejos clave:** Usa las etiquetas `<ul>`, `<img>`, `<a>`.  
 - **Práctica:** [Clic para programar](https://codepen.io/pen/?template=starter1)
 
