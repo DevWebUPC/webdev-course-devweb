@@ -20,7 +20,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 2: Introducción a HTML (10 minutos)
 - **Descripción:** Explora las etiquetas HTML básicas y crea tu primera página.  
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link2)  
+- **Enlace:** [Ver la lección](https://youtu.be/QJZzofJMoIo)  
 - **Consejos clave:** Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.  
 - **Práctica:** [Clic para programar](https://codepen.io/pen/?template=starter1)
 
