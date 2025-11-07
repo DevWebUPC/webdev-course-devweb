@@ -32,7 +32,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción:** Dale estilo a tu HTML con colores, fuentes y diseños.  
-- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link4)  
+- **Enlace:** [Ver la lección](https://youtu.be/Vxc-UEUdRwI)  
 - **Consejos clave:** Vincular CSS y usar selectores como `body { background-color: blue; }`.  
 - **Práctica:** [Aplicar estilo](https://codepen.io/pen/?template=starter1)
 
