@@ -92,4 +92,4 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - Ramirez Carrasco, Ariana Lizeth  
 - Lopez Roman, Franco Mauricio  
 
-**Fecha de entrega:** [colocar fecha exacta de entrega]
+**Fecha de entrega:** 16/11/2025
